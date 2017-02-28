@@ -1,0 +1,32 @@
+body {
+  background-color: #192125;
+}
+h3, p {
+  color: white;
+  font-family: inherit;
+  text-align: center;
+}
+li {
+  font-size: 16px;
+  position: fixed;
+}
+.btn-default:hover{
+  transition: color 0.2s ease;
+  color: white;
+  background-color: #151d20;
+}
+
+.btn-default{
+  color: white;
+  background-color: #151d20;
+  display: inline-block;
+}
+.navbar{
+  background-color: #151d20;
+  margin-top: auto;
+  width:100%;
+  float : right;
+}
+.navbar-inverse{
+  border-color: #151d20;
+}
